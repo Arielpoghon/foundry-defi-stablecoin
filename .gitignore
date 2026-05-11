@@ -12,7 +12,3 @@ docs/
 
 # Dotenv file
 .env
-
-# Local agent/workspace metadata
-.agents/
-.codex
