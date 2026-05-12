@@ -3,6 +3,7 @@
 // This is considered an Exogenous, Decentralized, Anchored (pegged), Crypto Collateralized low volatility coin
 
 // Layout of Contract:
+
 // version
 // imports
 // errors
