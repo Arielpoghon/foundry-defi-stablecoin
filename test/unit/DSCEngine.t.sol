@@ -10,7 +10,6 @@ import {MockV3Aggregator} from "../mocks/MockV3Aggregator.sol";
 import {MockFailedERC20} from "../mocks/MockFailedERC20.sol";
 import {MockDSC} from "../mocks/MockDSC.sol";
 import {Test} from "forge-std/Test.sol";
-
 contract DSCEngineTest is Test {
     DeployDSC deployer;
     DecentralizedStableCoin dsc;
