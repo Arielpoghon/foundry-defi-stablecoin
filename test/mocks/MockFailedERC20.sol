@@ -1,6 +1,5 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
-//mock failded
 import {ERC20} from "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 contract MockFailedERC20 is ERC20 {
     bool private s_shouldFailTransfer;
